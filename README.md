@@ -8,6 +8,11 @@ I'm Bee. I am a business person turned data professional, who is passionate abou
 - 📫 You can reach me at bichpham102@outlook.com 
 - ⚡ Fun fact: I am curious about Data application and its impact not only on Business but also to Arts and Society. 
 
+### Connect with me 
+<a href="https://www.linkedin.com/in/bee-bichpham/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="left" height="20" width="20" ></a>
+
+
+
 <!--
 **bichpham102/bichpham102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
