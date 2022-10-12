@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/69351204/195255954-06e32af5-5686-460c-aaea-3dc9b0578ec5.jpg" width="220" align="left">
+<img src="https://user-images.githubusercontent.com/69351204/195255954-06e32af5-5686-460c-aaea-3dc9b0578ec5.jpg" width="210" align="left">
 
   I'm **Bee**. I am a business person turned data professional, who is passionate about making better decision with data.
 
