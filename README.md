@@ -1,4 +1,12 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/69351204/195255954-06e32af5-5686-460c-aaea-3dc9b0578ec5.jpg" width="150">
+
+I'm Bee. I am a business person turned data professional, who is passionate about making better decision with data.
+
+- 🔭 I work on Strategy & Analytics in platform businesses.
+- 🌱 I’m currently learning AI for Analytics. 
+- 💬 Ask me about Analytics in Business settings.
+- 📫 You can reach me at bichpham102@outlook.com 
+- ⚡ Fun fact: I am curious about Data application and its impact not only on Business but also to Arts and Society. 
 
 <!--
 **bichpham102/bichpham102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
